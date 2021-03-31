@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/testAlertViewAnimation/static/css/main.5463575a.chunk.css",
+    "main.js": "/testAlertViewAnimation/static/js/main.2816774b.chunk.js",
+    "main.js.map": "/testAlertViewAnimation/static/js/main.2816774b.chunk.js.map",
+    "runtime-main.js": "/testAlertViewAnimation/static/js/runtime-main.4ff32bad.js",
+    "runtime-main.js.map": "/testAlertViewAnimation/static/js/runtime-main.4ff32bad.js.map",
+    "static/js/2.47b42ae3.chunk.js": "/testAlertViewAnimation/static/js/2.47b42ae3.chunk.js",
+    "static/js/2.47b42ae3.chunk.js.map": "/testAlertViewAnimation/static/js/2.47b42ae3.chunk.js.map",
+    "index.html": "/testAlertViewAnimation/index.html",
+    "static/css/main.5463575a.chunk.css.map": "/testAlertViewAnimation/static/css/main.5463575a.chunk.css.map",
+    "static/js/2.47b42ae3.chunk.js.LICENSE.txt": "/testAlertViewAnimation/static/js/2.47b42ae3.chunk.js.LICENSE.txt",
+    "static/media/happy.3bca0d31.jfif": "/testAlertViewAnimation/static/media/happy.3bca0d31.jfif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ff32bad.js",
+    "static/js/2.47b42ae3.chunk.js",
+    "static/css/main.5463575a.chunk.css",
+    "static/js/main.2816774b.chunk.js"
+  ]
+}
