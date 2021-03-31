@@ -1,0 +1,29 @@
+.happy,
+.side {
+  width: 30px;
+  height: 30px;
+}
+
+.feedbackContainer {
+  display: flex;
+  background-color: white;
+  align-items: center;
+  justify-content: space-around;
+  padding: 10px;
+  border-radius: 10px;
+  width: 70%;
+  height: 20%;
+  position: relative;
+}
+
+.feedback {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.feedback p {
+  margin-bottom: 20px;
+}
